@@ -80,8 +80,8 @@ ECommerce-Management-System/
 This project is licensed under the ⚖️ MIT License.
 
 ## 🤝 Contributors
-- **Deepam** ([@](https://github.com/PHONEIX-06))
-- **Tanya** ([@](https://github.com/TANYA2405))
+- **Deepam** ([@Link](https://github.com/PHONEIX-06))
+- **Tanya** ([@Link](https://github.com/TANYA2405))
 
 ## 📧 Contact
 For queries, reach out at 📩 [kaibalyaprasad3@gmail.com](mailto:kaibalyaprasad3@gmail.com).
