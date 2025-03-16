@@ -71,6 +71,9 @@ ECommerce-Management-System/
 │   ├── 🗄️ DBConnector.java  # Database connection logic
 │   ├── 🖥️ MainGUI.java      # Main user interface logic
 ```
+## 📸 Screenshots
+![Landing Page](https://github.com/user-attachments/assets/0cb89d42-3ba0-46c5-9bdc-5cb6d6716dd0)
+
 ## 🔮 Future Enhancements
 - *🔐 User Authentication* – Implement role-based access control.
 - *📦 Order Management* – Enable processing and tracking of 📦 orders.
