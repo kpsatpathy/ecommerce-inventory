@@ -72,7 +72,16 @@ ECommerce-Management-System/
 │   ├── 🖥️ MainGUI.java      # Main user interface logic
 ```
 ## 📸 Screenshots
+*Caption: **User Interface**
 ![Landing Page](https://github.com/user-attachments/assets/0cb89d42-3ba0-46c5-9bdc-5cb6d6716dd0)
+*Caption: **Adding items to the inventory**
+![Screenshot 2025-03-13 135414](https://github.com/user-attachments/assets/fb03a282-3756-4375-9f0e-d4245e35cdd3)
+*Caption: **Items in the inventory**
+![Screenshot 2025-03-13 135434](https://github.com/user-attachments/assets/f9c055f7-7b67-4f72-8a69-c01232f57a9e)
+*Caption: **Deleting item from inventory**
+![Screenshot 2025-03-13 135507](https://github.com/user-attachments/assets/3280c41d-a20d-4eaa-a0f2-49253048ed20)
+*Caption: **Exporting items list to a CSV file**
+![Screenshot 2025-03-13 135532](https://github.com/user-attachments/assets/82f309fb-ef63-4919-807f-e9900ab09057)
 
 ## 🔮 Future Enhancements
 - *🔐 User Authentication* – Implement role-based access control.
