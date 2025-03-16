@@ -25,17 +25,19 @@ Ensure you have the following installed:
 - 🐬 MySQL Server
 - 🔌 MySQL Connector/J (JDBC Driver)
 
-### 🗄 Database Setup
+
+
+### 🗄️ Database Setup
 1. Create a MySQL database:
-    sql
+    ```sql
     CREATE DATABASE inventory_db;
-    
+    ```
 2. Switch to the new database:
-    sql
+    ```sql
     USE inventory_db;
-    
-3. Create the products table:
-    sql
+    ```
+3. Create the `products` table:
+    ```sql
     CREATE TABLE products (
         id INT AUTO_INCREMENT PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
@@ -43,34 +45,32 @@ Ensure you have the following installed:
         quantity INT NOT NULL,
         category VARCHAR(100) NOT NULL
     );
-    
+    ```
 
 ### 🚀 Running the Application
 1. Clone the repository:
-    sh
-    git clone https://github.com/kpsatpathy/ECommerce-Management-System.git
+    ```sh
+    git clone https://github.com/yourusername/ECommerce-Management-System.git
     cd ECommerce-Management-System
-    
-2. Update database credentials in DBConnector.java:
-    java
+    ```
+2. Update database credentials in `DBConnector.java`:
+    ```java
     private static final String URL = "jdbc:mysql://localhost:3306/inventory_db";
     private static final String USER = "your_db_user";
     private static final String PASSWORD = "your_db_password";
-    
+    ```
 3. Compile and run the program:
-    sh
+    ```sh
     javac MainGUI.java
     java MainGUI
-    
-
+    ```
 ## 📁 Project Structure
-
+```
 ECommerce-Management-System/
 │── 📂 src/
-│   ├── 🗄 DBConnector.java  # Database connection logic
-│   ├── 🖥 MainGUI.java      # Main user interface logic
-
-
+│   ├── 🗄️ DBConnector.java  # Database connection logic
+│   ├── 🖥️ MainGUI.java      # Main user interface logic
+```
 ## 🔮 Future Enhancements
 - *🔐 User Authentication* – Implement role-based access control.
 - *📦 Order Management* – Enable processing and tracking of 📦 orders.
